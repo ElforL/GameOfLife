@@ -1,0 +1,1 @@
+java --module-path "c:\Program Files\Java\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls -jar "Game of Life.jar"
